@@ -30,7 +30,7 @@
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=uyanikislam&show_icons=true&locale=en&layout=compact" alt="uyanikislam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uyanikislam&show_icons=true&locale=en&layout=compact" alt="uyanikislam" /></p>
 
 
 <p> &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=uyanikislam&show_icons=true&locale=en" alt="uyanikislam" /></p> 
