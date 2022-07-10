@@ -11,15 +11,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/islamuyanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="islamuyanik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/uyanik-islamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uyanik-islamm" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19520114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19520114" height="30" width="40" /></a>
-<a href="https://medium.com/@islamuyanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@islamuyanik" height="30" width="40" /></a>
-</p>
-
-## Connect with me  
+## Connect with me:
 <div align="center">
 <a href="https://twitter.com/islamuyanik" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
