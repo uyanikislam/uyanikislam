@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Islam</h1>
 <h2 align="center">Husband, father and literature lover. A passionate back-end developer from Turkey.</h3>
 
-- 🌱 I’m currently learning, **Directus, React**
+- 🌱 I’m currently learning; **Directus & React.**
 
 - 📝 I regularly write articles on: [https://medium.com/@islamuyanik](https://medium.com/@islamuyanik)
 
