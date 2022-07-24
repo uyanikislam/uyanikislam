@@ -26,7 +26,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 <a href="https://medium.com/@islamuyanik" target="_blank">
-<img src=https://camo.githubusercontent.com/10de78e98e122a3a100ffdcecb1c52bf78c6ab4eb4969496effa141079a518a3/68747470733a2f2f73342e7575706c6f61642e69722f66696c65732f747769747465725f70726b622e706e67&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<img src=https://camo.githubusercontent.com/10de78e98e122a3a100ffdcecb1c52bf78c6ab4eb4969496effa141079a518a3/68747470733a2f2f73342e7575706c6f61642e69722f66696c65732f747769747465725f70726b622e706e67 alt=medium style="margin-bottom: 5px;" />
 </a>  
 
 </div> 
