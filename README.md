@@ -36,6 +36,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,js,nodejs,react,express,html,css,github,heroku,graphql,postgres,mongodb,mysql,sqlite&perline=5)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,js,nodejs,react,express,html,css,github,heroku,graphql,postgres,mongodb,mysql,sqlite&perline=5" />
+  </a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uyanikislam&show_icons=true&locale=en&layout=compact" alt="uyanikislam" /></p>
 
 
