@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Islam</h1>
-<h2 align="center">Husband, father and literature lover. A passionate back-end developer from Turkey.</h3>
+<h2 align="center">Nice to see you! MERN Stack developer from Turkey.</h3>
 
 - 🌱 I’m currently learning; **Directus & React.**
 
