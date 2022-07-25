@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on: [https://medium.com/@islamuyanik](https://medium.com/@islamuyanik)
 
-- 💬 Ask me about: **Javascript & MERN Stack **
+- 💬 Ask me about: **Javascript & MERN Stack**
 
 - 📫 How to reach me: **islamuyanik@gmail.com**
 
