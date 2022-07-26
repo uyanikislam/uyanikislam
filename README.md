@@ -42,15 +42,15 @@
 <p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uyanikislam&show_icons=true&locale=en" alt="uyanikislam" /></p> 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uyanikislam&" alt="uyanikislam" /></p>
+<p><img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=uyanikislam&" alt="uyanikislam" /></p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uyanikislam&show_icons=true&locale=en&layout=compact" alt="uyanikislam" />
+<p><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=uyanikislam&show_icons=true&locale=en&layout=compact" alt="uyanikislam" />
 
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uyanikislam&show_icons=true&locale=en" alt="uyanikislam" />
+&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=uyanikislam&show_icons=true&locale=en" alt="uyanikislam" />
 
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=uyanikislam&" alt="uyanikislam" /></p>
+<img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=uyanikislam&" alt="uyanikislam" /></p>
 
