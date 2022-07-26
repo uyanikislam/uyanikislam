@@ -11,7 +11,7 @@
 
 
 
-<p align="center"> ## Connect with me: </p>
+<h2 align="center"> Connect with me: </h2>
 <div align="center">
 <a href="https://twitter.com/islamuyanik" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
