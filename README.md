@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Islam</h1>
-<h2 align="center">Jr.back-end developer</h3>
+<h1 align="center">Hi 👋, I'm Islam</h1> 
+
+<h2 align="center">Jr. back-end developer</h3>
+
+**Jr. back-end developer**
 
 - 🌱 I’m currently learning; **Directus & React.**
 
