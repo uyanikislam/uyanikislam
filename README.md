@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Islam</h1>
-<h2 align="center">Jr. Node.js developer from Turkey.</h3>
+<h2 align="center">Jr.back-end developer</h3>
 
 - 🌱 I’m currently learning; **Directus & React.**
 
