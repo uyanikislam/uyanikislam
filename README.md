@@ -12,5 +12,4 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uyanikislam&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+<a href="https://github.com/uyanikislam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uyanikislam&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
