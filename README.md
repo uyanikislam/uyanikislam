@@ -4,13 +4,15 @@
 
 <h1 align="center">👋🏼👋🏼👋🏼 Hey There! 👋🏼👋🏼👋🏼</h1>
 
-###
-
-<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="center">I'm a Backend Developer living in Turkey, focused on NodeJS. <br>You can reach me at this e-mail address: islamuyanik@gmail.com</p>
+<p align="center" style="font-weight: bold; font-size: larger;">
+  I'm a Backend Developer living in Turkey, focused on NodeJS. <br>
+  You can reach me at this e-mail address: <a href="mailto:islamuyanik@gmail.com">islamuyanik@gmail.com</a>
+</p>
+
+
 
 ###
 
