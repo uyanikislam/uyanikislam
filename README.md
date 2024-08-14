@@ -2,9 +2,11 @@
 
 ###
 
-Hi there ッ
 
 
+<p align="center" style="font-weight: bold; font-size: larger;">
+  Hi there ッ</a>
+</p>
 ###
 
 <p align="center" style="font-weight: bold; font-size: larger;">
