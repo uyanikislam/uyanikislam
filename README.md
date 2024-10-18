@@ -10,7 +10,7 @@
 
 
 <p align="center" style="font-weight: bold; font-size: larger;">
-  I'm a Backend Developer living in Turkey, focused on NodeJS. <br>
+  I'm a Fullstack Developer living in Turkey, focused on NodeJS & ReactJS. <br>
   You can reach me at this e-mail address: <a href="mailto:islamuyanik@gmail.com">islamuyanik@gmail.com</a>
 </p>
 
