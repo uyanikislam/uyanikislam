@@ -1,62 +1,40 @@
-
-
-###
-
-
-
-<p align="center" style="font-weight: bold; font-size: larger;">
-  Hi there ッ</a>
-</p>
-
-
-<p align="center" style="font-weight: bold; font-size: larger;">
-  I'm a Backend Developer living in Turkey, focused on NodeJS. <br>
-  You can reach me at this e-mail address: <a href="mailto:islamuyanik@gmail.com">islamuyanik@gmail.com</a>
-</p>
-
-
-
-###
-
-<h3 align="center">🛠 Language and tools</h3>
-
-###
-
-<p align="center">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white" alt="NestJS" />
-    <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" alt="Next JS" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="NodeJS" />
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-
-
-###
-
-<h3 align="center">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uyanikislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+# 👋 I'm İslam Uyanık
+**Backend Engineer | Node.js Specialist**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uyanik-islamm)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:islamuyanik@gmail.com)
+
+---
+
+### 🛠️ Core Stack & Expertise
+
+`Runtime & Frameworks`
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+`Databases & Caching`
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+`Infrastructure & DevOps`
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
+
+### 📊 Github Performance
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=uyanikislam&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" alt="Top Langs" />
+
+---
+
+### 🎯 Professional Focus
+- **Architecture:** Microservices, Restful API, Design Patterns.
+- **Security:** JWT, OAuth2, Bcrypt, OWASP Principles.
+- **Testing:** Jest
 </div>
-
-###
-
-<h3 align="center">⚡ Social Media</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/uyanik-islamm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
